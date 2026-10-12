@@ -3,7 +3,7 @@ Desenvolvedor Front End || UI/UX Designer || Designer Gráfico
 
 
 # 💫 Um pouco sobre mim:
-🎓 Bacharel em Ciência da Computação pela Universidade Federal do Maranhão – UFMA<br>📚 Mestrando em Ciência da Computação no Programa de Pós-Graduação em Ciência da Computação – PPGCC/UFMA<br>🔬 Integrante do Laboratório de Pesquisa Telemídia-MA<br>🎮 Foco em pesquisas sobre desenvolvimento de ferramentas gamificadas para impulsionar o aprendizado<br>🧠 Sou uma mistura de Front-End Dev, Game Dev, UI/UX Designer e Designer Gráfico – sempre com foco em sistemas modernos, intuitivos e visualmente atrativos<br>⚡ Aqui você encontra um cara 100% Nerd, Geek e Otaku!<br><br>📩 Dúvidas? Não hesite em entrar em contato pelo meu site (link na bio) ou diretamente pelo e-mail: kleydson1010@gmail.com
+🎓 Bacharel em Ciência da Computação pela Universidade Federal do Maranhão – UFMA<br>📚 Mestre em Ciência da Computação no Programa de Pós-Graduação em Ciência da Computação – PPGCC/UFMA<br>🔬 Integrante do Laboratório de Pesquisa Telemídia-MA<br>🎮<br>📚 Docente na Unidade de Ensino Superior Dom Bosco - UNDB<br> Foco em pesquisas sobre desenvolvimento de ferramentas gamificadas para impulsionar o aprendizado<br>🧠 Sou uma mistura de Front-End Dev, Game Dev, UI/UX Designer e Designer Gráfico – sempre com foco em sistemas modernos, intuitivos e visualmente atrativos<br>⚡ Aqui você encontra um cara 100% Nerd, Geek e Otaku!<br><br>📩 Dúvidas? Não hesite em entrar em contato pelo meu site (link na bio) ou diretamente pelo e-mail: kleydson1010@gmail.com
 
 
 ## 🌐 Minhas mídias:
